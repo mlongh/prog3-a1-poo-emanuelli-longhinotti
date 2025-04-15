@@ -39,8 +39,14 @@ auth_system/
 │   ├── Authenticator.php  # Main authentication logic
 │   ├── Session.php        # Session management
 │   └── User.php          # User related functionality
-├── README.md
+├── dashboard.php
+└── index.php
+└── login.php
 └── logout.php
+└── process_login.php
+└── process_register.php
+└── README.md
+└── register.php
 ```
 
 ## Usage
