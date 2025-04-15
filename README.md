@@ -34,7 +34,7 @@ A simple and secure PHP-based authentication system that provides user registrat
 ## Project Structure
 
 ```
-auth_system/
+prog3-a1-poo-emanuelli-longhinotti/
 ├── classes/
 │   ├── Authenticator.php  # Main authentication logic
 │   ├── Session.php        # Session management
