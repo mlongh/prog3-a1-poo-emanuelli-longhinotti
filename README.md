@@ -1,5 +1,7 @@
-# PHP Authentication System
+### Nome completo: Emanuelli Barboza Longhinotti
+### Turma: Sistemas de Informação Câmpus Chapecó - 5 semestre
 
+# PHP Authentication System
 A simple and secure PHP-based authentication system that provides user registration, login, and session management functionality.
 
 ## Features
